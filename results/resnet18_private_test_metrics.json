@@ -1,0 +1,12 @@
+{
+  "model": "ResNet18",
+  "selected_training_run": "run_25_resnet18_full_aug_scheduler",
+  "selected_checkpoint_epoch": 18,
+  "checkpoint_selection_metric": "validation_accuracy",
+  "best_validation_accuracy": 0.691836,
+  "best_validation_macro_f1": 0.68462,
+  "private_test_loss": 0.993434765140271,
+  "private_test_accuracy": 0.7110615770409585,
+  "private_test_macro_f1": 0.7081120898799244,
+  "private_test_samples": 3589
+}
